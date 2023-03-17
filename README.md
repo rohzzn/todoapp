@@ -25,10 +25,8 @@ This is a minimal TODO iOS app built using Swift. The app allows you to add task
 ### Screenshots
 
 <p float="left">
-
 <img src="https://user-images.githubusercontent.com/47408756/225930414-aa86fc42-f485-4b66-870b-04cfbc0ac80a.png" height="500" >
-<img src="https://user-images.githubusercontent.com/47408756/225930389-dc254bc1-a6a4-4eca-802a-f41b6f1a3cef.png" height="500">
-
+<img src="https://user-images.githubusercontent.com/47408756/225933621-50bf2157-8321-40a7-b8c3-c97acd703326.png" height="500">
 </p>
 
 ### Video
